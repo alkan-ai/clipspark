@@ -1,5 +1,0 @@
-streamlit
-yt_dlp
-ffmpeg-python
-moviepy
-openai-whisper
